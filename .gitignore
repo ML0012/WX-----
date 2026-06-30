@@ -1,2 +1,5 @@
 node_modules/
 .env
+*.pem
+apiclient_key.pem
+apiclient_cert.pem
